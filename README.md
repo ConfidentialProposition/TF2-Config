@@ -1,11 +1,12 @@
-# TF2 Config
-My Team Fortress 2 configurations files.
+# TF2 Test Branch
+My Team Fortress 2 test configurations files.
 
 ### Contains the following:
 * [HUD](https://huds.tf/site/s-lavaHUD)
 * [No Hats Mod](https://github.com/Fedora31/no-hats-bgum)
 * Config based on [Lyrositor TF2-Scripts](https://github.com/Lyrositor/TF2-Scripts/)
-
+    * `config_base` allows you to view the configs base scripts (`.cfg`).
+    * `config_configuration` allows you to view to configs user configurable scripts (`.cfg`).
 
 ### To Install
 

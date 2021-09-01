@@ -1,8 +1,7 @@
-# TF2 Config
+# TF2 Testing Config
 
 ### Custom Contains:
 * [HUD](https://huds.tf/site/s-lavaHUD)
-
 
 * [No Hats Mod](https://github.com/Fedora31/no-hats-bgum)
     * `no_botkiller.vpk` Removes BotKiller Weapons
@@ -14,11 +13,8 @@
     * `no_unusuals.vpk` Removes Unsuals
     * `no_zombie_skins.vpk` Removes Zombie Skins
 
-
 * Config files based on [Lyrositor TF2-Scripts](https://github.com/Lyrositor/TF2-Scripts/)
-
-`Config_base.vpk` contains the base config.
-
-`config_configuration` folder contains the user editable configs.
-   * `class`: Contains TF2 classes configs - *this is where you can put your own configs*.
-   * `user`: Contains the settings that you can change.
+    * `Config_base.vpk` contains the base config.
+    * `config_configuration` folder contains user editable configs.
+        * `class`: Contains class specific configs.
+        * `user`: Contains changeable settings.
