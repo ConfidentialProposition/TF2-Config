@@ -1,0 +1,1 @@
+#base	"steamfriendpanel-base.res"

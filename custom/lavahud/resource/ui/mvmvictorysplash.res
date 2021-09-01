@@ -1,0 +1,1 @@
+#base "mvmvictorysplash-base.res"

@@ -1,0 +1,1 @@
+#base	"hudtournamentsetup-base.res"

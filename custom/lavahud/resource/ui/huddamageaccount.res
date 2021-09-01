@@ -1,0 +1,1 @@
+#base	"huddamageaccount-base.res"
