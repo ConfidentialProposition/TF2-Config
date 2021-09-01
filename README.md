@@ -1,16 +1,17 @@
-# TF2 Test Branch
-My Team Fortress 2 test configurations files.
+# TF2 Testing Branch
+My Team Fortress 2 testing configurations files.
 
-### Contains the following:
+### Repo contains the following:
 * [HUD](https://huds.tf/site/s-lavaHUD)
 * [No Hats Mod](https://github.com/Fedora31/no-hats-bgum)
 * Config based on [Lyrositor TF2-Scripts](https://github.com/Lyrositor/TF2-Scripts/)
-    * `config_base` allows you to view the configs base scripts (`.cfg`).
-    * `config_configuration` allows you to view to configs user configurable scripts (`.cfg`).
+    * `config_base` allows you to view the configs base scripts in (`.cfg`) file format.
+    * `config_configuration` allows you to view to configs user configurable scripts in (`.cfg`) file format.
+* Custom closed captions.
 
 ### To Install
 
-Extract the Zip and Copy and Paste `cfg`, `custom` and `resource` into `tf`, found in the `Team Fortress 2` folder.
+Extract the Zip and Copy and Paste `custom` into `tf`, found in the `Team Fortress 2` folder.
 
 #### If you need help finding the `Team Fortress 2` folder:
 

@@ -1,6 +1,6 @@
 # TF2 Testing Config
 
-### Custom Contains:
+### Custom contains:
 * [HUD](https://huds.tf/site/s-lavaHUD)
 
 * [No Hats Mod](https://github.com/Fedora31/no-hats-bgum)
@@ -14,7 +14,7 @@
     * `no_zombie_skins.vpk` Removes Zombie Skins
 
 * Config files based on [Lyrositor TF2-Scripts](https://github.com/Lyrositor/TF2-Scripts/)
-    * `Config_base.vpk` contains the base config.
+    * `Config_base` folder contains the base config.
     * `config_configuration` folder contains user editable configs.
         * `class`: Contains class specific configs.
         * `user`: Contains changeable settings.
