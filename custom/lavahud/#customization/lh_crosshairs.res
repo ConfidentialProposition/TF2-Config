@@ -8,7 +8,7 @@
 	// Size: 10 - 30 | Outline: On - Off                                                                                        
 	// `cl_crosshair_scale 0` to disable the default tf2 crosshair        
 	//
-    // "scripts/lavahudanimations" to make it change colors when you damage someone	"CTRL+F Crosshair"
+    // "scripts/lavahudanimations" to make it change colour when you damage someone	"CTRL+F Crosshair"
 	//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 	"Crosshair_1"

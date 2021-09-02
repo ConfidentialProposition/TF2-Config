@@ -57,8 +57,8 @@
 				"armedFgColor_override" "80 80 80 255"
 				"depressedFgColor_override" "46 43 42 255"
 				
-				"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-				"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text color
+				"image_drawcolor"	"38 30 22 255" // Main Menu button text colour
+				"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text colour
 				
 				"SubImage"
 				{
@@ -323,8 +323,8 @@
 		"paintbackground"	"1"
 		"paintborder"		"1"
 		"border"			"NoBorder"
-		"image_drawcolor"	"214 206 200 255" // Button text color
-		"image_armedcolor"	"255 255 255 255" // Button hover text color
+		"image_drawcolor"	"214 206 200 255" // Button text colour
+		"image_armedcolor"	"255 255 255 255" // Button hover text colour
 		
 		"navDown"		"GeneralStoreButton"
 		"navRight"		"Notifications_ShowButtonPanel"
@@ -524,8 +524,8 @@
 			"depressedBgColor_override" "0 0 0 0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text color
+			"image_drawcolor"	"38 30 22 255" // Main Menu button text colour
+			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text colour
 			
 			"SubImage"
 			{
@@ -595,8 +595,8 @@
 			"depressedBgColor_override" "0 0 0 0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-			"image_armedcolor"	"225 225 225 255" // Main Menu hovered button text color
+			"image_drawcolor"	"38 30 22 255" // Main Menu button text colour
+			"image_armedcolor"	"225 225 225 255" // Main Menu hovered button text colour
 			
 			"SubImage"
 			{
@@ -644,8 +644,8 @@
 		"depressedBgColor_override" "0 0 0 0"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-		"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text color
+		"image_drawcolor"	"38 30 22 255" // Main Menu button text colour
+		"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text colour
 		"Command"		"OpenOptionsDialog"
 		"labelText"		"#GameUI_GameMenu_Options"
 		"tooltip"		""
@@ -725,8 +725,8 @@
 			"depressedBgColor_override" "0 0 0 0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text color
+			"image_drawcolor"	"38 30 22 255" // Main Menu button text colour
+			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text colour
 			
 			"SubImage"
 			{
@@ -796,8 +796,8 @@
 			"depressedBgColor_override" "0 0 0 0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text color
+			"image_drawcolor"	"38 30 22 255" // Main Menu button text colour
+			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text colour
 		}
 	}
 	
@@ -853,8 +853,8 @@
 			"depressedBgColor_override" "0 0 0 0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text color
+			"image_drawcolor"	"38 30 22 255" // Main Menu button text colour
+			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text colour
 		}
 	}
 
@@ -999,8 +999,8 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
-			"image_drawcolor"	"240 238 237 255" // Main Menu button text color
-			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text color
+			"image_drawcolor"	"240 238 237 255" // Main Menu button text colour
+			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text colour
 			
 			"SubImage"
 			{
@@ -1070,8 +1070,8 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground"	"0"
 			"paintborder"		"0"
-			"image_drawcolor"	"240 238 237 255" // Main Menu button text color
-			"image_armedcolor"	"205 54 255 255" // Main Menu hovered button text color
+			"image_drawcolor"	"240 238 237 255" // Main Menu button text colour
+			"image_armedcolor"	"205 54 255 255" // Main Menu hovered button text colour
 			"border_default"	"SharpMainMenuButton"
 			"border_armed"		"SharpMainMenuButtonArmed"
 
@@ -1183,8 +1183,8 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground"	"0"
 			"paintborder"		"0"
-			"image_drawcolor"	"240 238 237 255" // Main Menu button text color
-			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text color
+			"image_drawcolor"	"240 238 237 255" // Main Menu button text colour
+			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text colour
 			"border_default"	""
 			"border_armed"		""
 
@@ -1262,8 +1262,8 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground"   "0"
-			"image_drawcolor"	"240 238 237 255" // Main Menu button text color
-			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text color
+			"image_drawcolor"	"240 238 237 255" // Main Menu button text colour
+			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text colour
 
 			"SubImage"
 			{
@@ -1596,8 +1596,8 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
 			
-			"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text color
+			"image_drawcolor"	"38 30 22 255" // Main Menu button text colour
+			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text colour
 		
 			"SubImage"
 			{
@@ -1645,8 +1645,8 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
 			
-			"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text color
+			"image_drawcolor"	"38 30 22 255" // Main Menu button text colour
+			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text colour
 		
 			"SubImage"
 			{
@@ -2303,8 +2303,8 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"PaintBackgroundType" "0"
 		
-		"image_drawcolor"	"203 186 177 255" // Footer text color
-		"image_armedcolor"	"203 186 177 255" // Footer text color
+		"image_drawcolor"	"203 186 177 255" // Footer text colour
+		"image_armedcolor"	"203 186 177 255" // Footer text colour
 		
 		"defaultBgColor_override" 	"0 0 0 0"
 		"armedBgColor_override" 	"0 0 0 0"
@@ -2365,8 +2365,8 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 		//"border_default"	"MainMenuSubButtonBorder"
 		
-		"image_drawcolor"	"240 238 237 225" // Main Menu button text color
-		"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text color
+		"image_drawcolor"	"240 238 237 225" // Main Menu button text colour
+		"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text colour
 		
 		"defaultBgColor_override" 	"0 0 0 0"
 		"armedBgColor_override" 	"0 0 0 0"
@@ -2421,8 +2421,8 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		
-		"image_drawcolor"	"240 238 237 255" // Main Menu button text color
-		"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text color
+		"image_drawcolor"	"240 238 237 255" // Main Menu button text colour
+		"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text colour
 
 		
 		"defaultBgColor_override" 	"0 0 0 0"
@@ -2477,8 +2477,8 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		
-		"image_drawcolor"	"240 238 237 255" // Main Menu button text color
-		"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text color
+		"image_drawcolor"	"240 238 237 255" // Main Menu button text colour
+		"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text colour
 		
 		"defaultBgColor_override" 	"0 0 0 0"
 		"armedBgColor_override" 	"0 0 0 0"
@@ -2532,8 +2532,8 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		
-		"image_drawcolor"	"240 238 237 255" // Main Menu button text color
-		"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text color
+		"image_drawcolor"	"240 238 237 255" // Main Menu button text colour
+		"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text colour
 		
 		"defaultBgColor_override" 	"0 0 0 0"
 		"armedBgColor_override" 	"0 0 0 0"
@@ -2588,8 +2588,8 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		
-		"image_drawcolor"	"240 238 237 255" // Main Menu button text color
-		"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text color
+		"image_drawcolor"	"240 238 237 255" // Main Menu button text colour
+		"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text colour
 		
 		"defaultBgColor_override" 	"0 0 0 0"
 		"armedBgColor_override" 	"0 0 0 0"
@@ -2643,8 +2643,8 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		
-		"image_drawcolor"	"240 238 237 255" // Main Menu button text color
-		"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text color
+		"image_drawcolor"	"240 238 237 255" // Main Menu button text colour
+		"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text colour
 		
 		"defaultBgColor_override" 	"0 0 0 0"
 		"armedBgColor_override" 	"0 0 0 0"
@@ -2754,8 +2754,8 @@
 			"depressedFgColor_override" "G_MainMenuButtonHoverFg"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"image_drawcolor"	"240 238 237 225" // Main Menu button text color
-			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text color
+			"image_drawcolor"	"240 238 237 225" // Main Menu button text colour
+			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text colour
 			
 			"defaultBgColor_override" 	"0 0 0 0"
 			"armedBgColor_override" 	"0 0 0 0"
@@ -2821,8 +2821,8 @@
 			"depressedFgColor_override" "G_MainMenuButtonHoverFg"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"image_drawcolor"	"240 238 237 225" // Main Menu button text color
-			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text color
+			"image_drawcolor"	"240 238 237 225" // Main Menu button text colour
+			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text colour
 			
 			"defaultBgColor_override" 	"0 0 0 0"
 			"armedBgColor_override" 	"0 0 0 0"
@@ -2905,8 +2905,8 @@
 			"armedFgColor_override" 	"G_MainMenuButtonHoverFg"
 			"depressedFgColor_override" "G_MainMenuButtonHoverFg"
 			
-			"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text color
+			"image_drawcolor"	"38 30 22 255" // Main Menu button text colour
+			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text colour
 			
 			"SubImage"
 			{
@@ -2972,8 +2972,8 @@
 			"border_default"	"SharpMainMenuButton"
 			"border_armed"		"SharpMainMenuButtonArmed"
 			
-			"image_drawcolor"	"240 238 237 225" // Main Menu button text color
-			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text color
+			"image_drawcolor"	"240 238 237 225" // Main Menu button text colour
+			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text colour
 			
 			"SubImage"
 			{
@@ -3039,8 +3039,8 @@
 			"border_default"	"SharpMainMenuButton"
 			"border_armed"		"SharpMainMenuButtonArmed"
 			
-			"image_drawcolor"	"240 238 237 225" // Main Menu button text color
-			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text color
+			"image_drawcolor"	"240 238 237 225" // Main Menu button text colour
+			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text colour
 			
 			"SubImage"
 			{
@@ -3106,8 +3106,8 @@
 			"border_default"	"SharpMainMenuButton"
 			"border_armed"		"SharpMainMenuButtonArmed"
 			
-			"image_drawcolor"	"240 238 237 225" // Main Menu button text color
-			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text color
+			"image_drawcolor"	"240 238 237 225" // Main Menu button text colour
+			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text colour
 			
 			"SubImage"
 			{
@@ -3173,8 +3173,8 @@
 			"border_default"	"SharpMainMenuButton"
 			"border_armed"		"SharpMainMenuButtonArmed"
 			
-			"image_drawcolor"	"240 238 237 225" // Main Menu button text color
-			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text color
+			"image_drawcolor"	"240 238 237 225" // Main Menu button text colour
+			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text colour
 			
 			"SubImage"
 			{
@@ -3298,8 +3298,8 @@
 				"armedFgColor_override" "80 80 80 255"
 				"depressedFgColor_override" "46 43 42 255"
 				
-				"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-				"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text color
+				"image_drawcolor"	"38 30 22 255" // Main Menu button text colour
+				"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text colour
 		
 				"SubImage"
 				{
@@ -3347,8 +3347,8 @@
 			"armedFgColor_override" "80 80 80 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text color
+			"image_drawcolor"	"38 30 22 255" // Main Menu button text colour
+			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text colour
 			
 			"SubImage"
 			{
@@ -3469,8 +3469,8 @@
 				"armedFgColor_override" "80 80 80 255"
 				"depressedFgColor_override" "46 43 42 255"
 				
-				"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-				"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text color
+				"image_drawcolor"	"38 30 22 255" // Main Menu button text colour
+				"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text colour
 				
 				"SubImage"
 				{
@@ -3518,8 +3518,8 @@
 			"armedFgColor_override" "80 80 80 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text color
+			"image_drawcolor"	"38 30 22 255" // Main Menu button text colour
+			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text colour
 				
 			"SubImage"
 			{
@@ -3631,8 +3631,8 @@
 			"armedFgColor_override" "80 80 80 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text color
+			"image_drawcolor"	"38 30 22 255" // Main Menu button text colour
+			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text colour
 				
 			"SubImage"
 			{
@@ -3744,8 +3744,8 @@
 			"armedFgColor_override" "80 80 80 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text color
+			"image_drawcolor"	"38 30 22 255" // Main Menu button text colour
+			"image_armedcolor"	"230 30 116 255" // Main Menu hovered button text colour
 				
 			"SubImage"
 			{
@@ -3857,8 +3857,8 @@
 			"armedFgColor_override" "80 80 80 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text color
+			"image_drawcolor"	"38 30 22 255" // Main Menu button text colour
+			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text colour
 				
 			"SubImage"
 			{
@@ -3970,8 +3970,8 @@
 			"armedFgColor_override" "80 80 80 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text color
+			"image_drawcolor"	"38 30 22 255" // Main Menu button text colour
+			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text colour
 				
 			"SubImage"
 			{
@@ -4384,11 +4384,8 @@
 			"depressedBgColor_override" "0 0 0 0"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
-			"image_drawcolor"	"38 30 22 255" // Main Menu button text color
-			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text color
+			"image_drawcolor"	"38 30 22 255" // Main Menu button text colour
+			"image_armedcolor"	"240 240 240 255" // Main Menu hovered button text colour
 		}
 	}
-} 
-
-  
-
+}

@@ -3,7 +3,7 @@ Scheme
 
 	Colors
 	{
-		// base colors
+		// base colours
 		"White"				"255 255 255 255"
 		"OffWhite"			"255 255 255 255"
 		"DullWhite"			"142 142 142 255"
@@ -16,10 +16,10 @@ Scheme
 
 	BaseSettings
 	{
-		// vgui_controls color specifications
+		// vgui_controls colour specifications
 		Border.Bright					"0 0 0 0"	// the lit side of a control
 		Border.Dark						"0 0 0 0"	// the dark/unlit side of a control
-		Border.Selection				"0 0 0 0"	// the additional border color for displaying the default/selected button
+		Border.Selection				"0 0 0 0"	// the additional border colour for displaying the default/selected button
 
 		Button.TextColor				"Blank"
 		Button.BgColor					"Blank"
@@ -120,8 +120,8 @@ Scheme
 		ScrollBarButton.DepressedFgColor	"0 0 0 0"
 		ScrollBarButton.DepressedBgColor	"0 0 0 0"
 
-		ScrollBarSlider.FgColor				"255 255 255 200"	// nob color
-		ScrollBarSlider.BgColor				"0 0 0 0"	// slider background color
+		ScrollBarSlider.FgColor				"255 255 255 200"	// nob colour
+		ScrollBarSlider.BgColor				"0 0 0 0"	// slider background colour
 
 		SectionedListPanel.HeaderTextColor	"White"
 		SectionedListPanel.HeaderBgColor	"Blank"
@@ -159,7 +159,7 @@ Scheme
 
 		WizardSubPanel.BgColor		"Blank"
 
-		// scheme-specific colors
+		// scheme-specific colours
 		MainMenu.TextColor			"White"				[$WIN32]
 		MainMenu.TextColor			"200 200 200 255"	[$X360]
 		MainMenu.ArmedTextColor		"200 200 200 255"	[$WIN32]

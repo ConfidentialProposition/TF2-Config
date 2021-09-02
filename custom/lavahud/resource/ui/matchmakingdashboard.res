@@ -425,7 +425,7 @@
 			
 				"paintbackground"	"0"
 			
-				"defaultFgColor_override" "214 206 200 255" // Button text color
+				"defaultFgColor_override" "214 206 200 255" // Button text colour
 				"armedFgColor_override"   "192 28 0 255"
 				"depressedFgColor_override" "192 28 0 255"
 			
@@ -657,14 +657,14 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"defaultFgColor_override" "255 255 255 200" // Button text color
-			"armedFgColor_override" "255 255 255 255" // Button hover text color
+			"defaultFgColor_override" "255 255 255 200" // Button text colour
+			"armedFgColor_override" "255 255 255 255" // Button hover text colour
 			
 			"defaultBgColor_override"	"24 24 24 255"
 			"armedBgColor_override"		"28 28 28 255"
 			
-			"image_drawcolor"	"255 255 255 255" // Button icon color
-			"image_armedcolor"	"HotPink" // Button icon hover color
+			"image_drawcolor"	"255 255 255 255" // Button icon colour
+			"image_armedcolor"	"HotPink" // Button icon hover colour
 
 			"SubImage"
 			{
@@ -683,8 +683,8 @@
 				
 				"image"			"icon_resume"
 				
-				"image_drawcolor_override"	"255 255 255 200" // Button icon color
-				"image_armedcolor_override"	"255 255 255 255" // Button icon hover color
+				"image_drawcolor_override"	"255 255 255 200" // Button icon colour
+				"image_armedcolor_override"	"255 255 255 255" // Button icon hover colour
 			}
 		}
 

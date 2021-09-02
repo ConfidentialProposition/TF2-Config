@@ -15,7 +15,7 @@
 		"paintbackground"	    "0"
 		"paintborder"		    "0"
 		"border"			    "NoBorder"
-		"bgcolor_override"	    "0 0 0 0" // Chat color
+		"bgcolor_override"	    "0 0 0 0" // Chat colour
 	}
 
 	ChatInputLine

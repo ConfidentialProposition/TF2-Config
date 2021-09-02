@@ -5,23 +5,23 @@ Scheme
 	Colors
 	{
 	
-		"G_ActiveWindow"			"37 37 37 255" // Active window bg color
-		"G_InctiveWindow"			"37 37 37 245" // Inactive window bg color
-		"G_TitleBg"					"0 0 0 0" // Title bg color
-		"G_TitleText"				"255 255 255 255" // Title text color
-		"G_Highlight"				"230 30 116 255" // Highlight color
-		"G_ConsoleBg"				"26 26 26 255" // Console bg color
-		"G_ListBg"					"26 26 26 255" // List bg color
-		"G_Border"					"0 0 0 60" // Border color
-		"G_Text"					"255 255 255 255" // Text color
-		"G_HighlightText"			"255 255 255 255" // Highlight text color
-		"G_SelectedText"			"255 255 255 255" // Selected text color
-		"G_DisabledText"			"199 199 199 150" // Disabled text color
-		"G_ButtonBg"				"25 25 25 255" // Button bg color
-		"G_ButtonText"				"200 200 200 255" // Button text color
-		"G_ButtonHoverBg"			"230 30 116 255" // Button hover bg color
-		"G_ButtonHoverText"			"255 255 255 255" // Button hover text color
-		"G_InputBg"					"25 25 25 255" // Input bg color
+		"G_ActiveWindow"			"37 37 37 255" // Active window bg colour
+		"G_InctiveWindow"			"37 37 37 245" // Inactive window bg colour
+		"G_TitleBg"					"0 0 0 0" // Title bg colour
+		"G_TitleText"				"255 255 255 255" // Title text colour
+		"G_Highlight"				"230 30 116 255" // Highlight colour
+		"G_ConsoleBg"				"26 26 26 255" // Console bg colour
+		"G_ListBg"					"26 26 26 255" // List bg colour
+		"G_Border"					"0 0 0 60" // Border colour
+		"G_Text"					"255 255 255 255" // Text colour
+		"G_HighlightText"			"255 255 255 255" // Highlight text colour
+		"G_SelectedText"			"255 255 255 255" // Selected text colour
+		"G_DisabledText"			"199 199 199 150" // Disabled text colour
+		"G_ButtonBg"				"25 25 25 255" // Button bg colour
+		"G_ButtonText"				"200 200 200 255" // Button text colour
+		"G_ButtonHoverBg"			"230 30 116 255" // Button hover bg colour
+		"G_ButtonHoverText"			"255 255 255 255" // Button hover text colour
+		"G_InputBg"					"25 25 25 255" // Input bg colour
 		"G_Light"					"255 255 255 50"
 		"G_Dark"					"0 0 0 60"
 	
@@ -44,24 +44,24 @@ Scheme
 	    "TFMediumBrown"				"69 64 58 255"
 
 	    "QuickListBGDeselected"		"0 0 0 0"
-	    "QuickListBGSelected"       "230 30 116 255" // Highlight color
+	    "QuickListBGSelected"       "230 30 116 255" // Highlight colour
 	    
 	    "Blank"				"0 0 0 0"
 	    
-	    // background colors
-		"ControlBG"			"76 88 68 255"		// background color of controls
-		"ControlDarkBG"		"90 106 80 255"		// darker background color; used for background of scrollbars
-		"WindowBG"			"62 70 55 255"		// background color of text edit panes (chat, text entries, etc.)
-		"SelectionBG"		"90 84 75 255"		// background color of any selected text or menu item
+	    // background colour
+		"ControlBG"			"76 88 68 255"		// background colour of controls
+		"ControlDarkBG"		"90 106 80 255"		// darker background colour; used for background of scrollbars
+		"WindowBG"			"62 70 55 255"		// background colour of text edit panes (chat, text entries, etc.)
+		"SelectionBG"		"90 84 75 255"		// background colour of any selected text or menu item
 		"SelectionBG2"		"69 64 57 255"		// selection background in window w/o focus
 		"ListBG"			"39 36 34 255"		// background of server browser, buddy list, etc.
 	}
 	BaseSettings
 	{
-		// scheme-specific colors
+		// scheme-specific colour
 		Border.Bright					"G_Border"	// the lit side of a control
 		Border.Dark						"G_Border"	// the dark/unlit side of a control
-		Border.Selection				"G_Border"	// the additional border color for displaying the default/selected button
+		Border.Selection				"G_Border"	// the additional border colour for displaying the default/selected button
 
 		// Buttons and tabs
 		Button.TextColor				"G_ButtonText"
@@ -92,7 +92,7 @@ Scheme
 		CheckButton.DepressedBgColor	"Blank"
 		CheckButton.Border1  			"Border.Dark" 	// the left checkbutton border
 		CheckButton.Border2  			"Border.Bright"	// the right checkbutton border
-		CheckButton.Check				"G_Highlight"	// color of the check itself
+		CheckButton.Check				"G_Highlight"	// colour of the check itself
 		CheckButton.DisabledBgColor	    "G_InputBg"
 
 		ToggleButton.SelectedTextColor	"G_Text"
@@ -156,7 +156,7 @@ Scheme
 		ScrollBarButton.DepressedBgColor	"G_ButtonHoverBg"
 
 		ScrollBarSlider.BgColor				"G_Dark"		// this isn't really used
-		ScrollBarSlider.FgColor				"G_ButtonBg"	// handle with which the slider is grabbed
+		ScrollBarSlider.FgColor				"G_Highlight"	// handle with which the slider is grabbed
 		
 		Slider.NobColor				"G_ButtonBg"		
 		Slider.TextColor			"G_ButtonText"

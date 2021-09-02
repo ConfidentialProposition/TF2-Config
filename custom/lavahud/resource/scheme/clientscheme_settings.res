@@ -6,7 +6,7 @@ Scheme
 	// controls use these to determine their settings
 	BaseSettings
 	{
-		// vgui_controls color specifications
+		// vgui_controls colour specifications
 		ReplayBrowser.BgColor								"DarkBrown"
 		ReplayBrowser.Details.TitleEdit.Carat.FgColor		"LightRed"
 		ReplayBrowser.Button.ArmedBgColor					"TFOrange"
@@ -37,7 +37,7 @@ Scheme
 		
 		Border.Bright					"Blank"		// the lit side of a control
 		Border.Dark						"Black"		// the dark/unlit side of a control
-		Border.Selection				"Gray"			// the additional border color for displaying the default/selected button
+		Border.Selection				"Gray"			// the additional border colour for displaying the default/selected button
 
 		Button.TextColor				"G_ButtonText"
 		Button.BgColor					"G_ButtonBg"
@@ -142,8 +142,8 @@ Scheme
 		ScrollBarButton.DepressedFgColor	"Black"
 		ScrollBarButton.DepressedBgColor	"Blank"
 
-		ScrollBarSlider.FgColor				"G_MenuText"		// nob color
-		ScrollBarSlider.BgColor				"Blank"		// slider background color
+		ScrollBarSlider.FgColor				"G_MenuText"		// nob colour
+		ScrollBarSlider.BgColor				"Blank"		// slider background colour
 
 		SectionedListPanel.HeaderTextColor	"Orange"
 		SectionedListPanel.HeaderBgColor	"Blank"
@@ -156,11 +156,11 @@ Scheme
 		SectionedListPanel.OutOfFocusSelectedTextColor	"Black"
 		SectionedListPanel.OutOfFocusSelectedBgColor	"255 255 255 32"
 
-		Slider.NobColor				"230 30 116 255" // Highlight color
-		Slider.TextColor			"220 206 199 255" // Menu text color
-		Slider.TrackColor			"220 206 199 255" // Menu text color
-		Slider.DisabledTextColor1	"220 206 199 120" // Dimm Menu text color
-		Slider.DisabledTextColor2	"220 206 199 120" // Dimm Menu text color
+		Slider.NobColor				"230 30 116 255" // Highlight colour
+		Slider.TextColor			"220 206 199 255" // Menu text colour
+		Slider.TrackColor			"220 206 199 255" // Menu text colour
+		Slider.DisabledTextColor1	"220 206 199 120" // Dimm Menu text colour
+		Slider.DisabledTextColor2	"220 206 199 120" // Dimm Menu text colour
 
 		TextEntry.TextColor			"Gray"
 		TextEntry.BgColor			"Blank"
@@ -197,7 +197,7 @@ Scheme
 		HudCaptureProgressBar.Active	"HudProgressBarActive"
 		HudCaptureProgressBar.InActive	"HudProgressBarInActive"
 
-		// scheme-specific colors
+		// scheme-specific colours
 		"FgColor"		"G_Highlight"
 		"BgColor"		"TransparentBlack"
 
@@ -215,14 +215,14 @@ Scheme
 		"MenuColor"		"233 208 173 255"
 		"MenuBoxBg"		"0 0 0 100"
 
-		// weapon selection colors
+		// weapon selection colours
 		"SelectionNumberFg"		"251 235 202 255"
 		"SelectionTextFg"		"251 235 202 255"
 		"SelectionEmptyBoxBg" 	"0 0 0 80"
 		"SelectionBoxBg" 		"0 0 0 80"
 		"SelectionSelectedBoxBg" "0 0 0 190"
 
-		// Hint message colors
+		// Hint message colours
 		"HintMessageFg"			"255 255 255 255"
 		"HintMessageBg" 		"0 0 0 60"
 
