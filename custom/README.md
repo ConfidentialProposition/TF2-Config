@@ -13,8 +13,17 @@
     * `no_unusuals.vpk` Removes Unsuals.
     * `no_zombie_skins.vpk` Removes Zombie Skins
 
+* [Disable Incoming Message](https://drive.google.com/file/d/12EYvAGVP4W4OX7dves0kpylp-4v2ioCB/view)
+    * `disable_incoming_message.vpk`
+        * Removes Miss Pauling's voice lines for quests.
+        * Removes the incoming message hud panel.
+
 * Config files based on [Lyrositor TF2-Scripts](https://github.com/Lyrositor/TF2-Scripts/)
     * `Config_base` folder contains the base config.
     * `config_configuration` folder contains user editable configs.
         * `class`: Contains class specific configs.
         * `user`: Contains changeable settings.
+
+### Known Bugs:
+* `Ammo Disappears`: 
+    * `Fix`: Press `F` while looking at a teammate, then look away from them, and Press `F` again.
