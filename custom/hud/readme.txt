@@ -4,6 +4,6 @@ With some elements inspired by budhud and rayshud.
 Will be adding more customizations.
 
 ----------------------------------------------------------------------
-THIS VERSION HAS BEEN EDITED BY Confidential Proposition ON 01.09.2021
+THIS VERSION HAS BEEN EDITED BY Confidential Proposition ON 03.09.2021
 - https://steamcommunity.com/id/ConfidentialProposition/
 - https://github.com/ConfidentialProposition/
