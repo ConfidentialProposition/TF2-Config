@@ -1,1 +1,0 @@
-#base	"spectator-base.res"

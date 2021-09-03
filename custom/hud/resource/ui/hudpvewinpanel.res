@@ -1,0 +1,1 @@
+#base	"hudpvewinpanel-base.res"

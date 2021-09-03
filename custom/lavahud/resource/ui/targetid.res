@@ -1,1 +1,0 @@
-#base	"targetid-base.res"

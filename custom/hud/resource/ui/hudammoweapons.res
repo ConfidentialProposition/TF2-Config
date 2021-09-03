@@ -1,0 +1,1 @@
+#base	"hudammoweapons-base.res"

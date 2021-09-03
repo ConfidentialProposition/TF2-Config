@@ -1,0 +1,1 @@
+#base	"votehud-base.res"
