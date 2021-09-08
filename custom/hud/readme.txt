@@ -5,5 +5,5 @@ Will be adding more customizations.
 
 ----------------------------------------------------------------------
 THIS VERSION HAS BEEN EDITED BY Confidential Proposition ON 03.09.2021
-- https://steamcommunity.com/id/ConfidentialProposition/
-- https://github.com/ConfidentialProposition/
+- https://steamcommunity.com/id/ConfidentialProposition 
+- https://github.com/ConfidentialProposition
