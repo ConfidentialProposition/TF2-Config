@@ -1,1 +1,0 @@
-#base	"hudkillstreaknotice-base.res"

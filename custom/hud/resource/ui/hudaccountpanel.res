@@ -1,1 +1,0 @@
-#base	"hudaccountpanel-base.res"

@@ -1,1 +1,0 @@
-#base	"hudinspectpanel-base.res"

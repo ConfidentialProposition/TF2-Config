@@ -1,9 +1,0 @@
-HOW TO ENABLE THESE FILES:
-
-1) Drag and drop the file you want to enable to the `_enabled` folder.
-
-2) Restart or do a hudreloadscheme in console for it to take effect.
-
-3) You did it!
-
-Any questions please DM me on discord: lava#1090 or twitter: https://twitter.com/LavaPlain
