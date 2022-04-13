@@ -28,7 +28,7 @@ Extract the Zip and Copy and Paste `custom` into `tf`, found in the `Team Fortre
 
 #### If you need help finding the `Team Fortress 2` folder:
 
-In `Steam` go to `Library` and find `Team Fortress 2`, right click it and select `Manage` > `Browse local files`.
+In `Steam` go to `Library` and find `Team Fortress 2`, right-click it and select `Manage` > `Browse local files`.
 This will open up your `Team Fortress 2` folder.
 
 ### Known Bugs
