@@ -2,8 +2,6 @@
 My Team Fortress 2 testing configuration files.
 
 ### Custom Contains
-* [No Hats Mod](https://github.com/Fedora31/no-hats-bgum)
-
 * [Disable Incoming Message](https://drive.google.com/file/d/12EYvAGVP4W4OX7dves0kpylp-4v2ioCB/view)
     * `disable_incoming_message.vpk`
         * Removes Miss Pauling's voice lines for quests.
@@ -12,8 +10,6 @@ My Team Fortress 2 testing configuration files.
 * Config files based on [Lyrositor's TF2 Scripts](https://github.com/Lyrositor/TF2-Scripts/)
     * `config_base` folder contains the base config.
     * `config_configuration` folder contains user editable configs.
-
-* [FlawHUD](https://github.com/CriticalFlaw/flawhud)
 
 ### To Install
 
