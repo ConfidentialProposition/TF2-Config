@@ -1,0 +1,6 @@
+[submodule "no-hats-bgum"]
+	path = no-hats-bgum
+	url = https://github.com/Fedora31/no-hats-bgum
+[submodule "flawhud"]
+	path = flawhud
+	url = https://github.com/CriticalFlaw/flawhud
